@@ -1,0 +1,9 @@
+gensim=0.13.4
+inflection=0.3.1
+numpy=1.11.3
+pandas=0.19.2
+pillow=3.3.1
+python-dateutil=2.5.3
+requests=2.12.4
+spacy=0.101.0
+unidecode=0.04.19
